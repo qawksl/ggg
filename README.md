@@ -4,17 +4,17 @@
 Загрузила проект в git, а так же изменила файлик README 
 
 ## Создание репозитория
-    git init
-    git add 
-    git commit -m "test"
-    git remote add origin main
-    git puch
+        git init
+        git add 
+        git commit -m "test"
+        git remote add origin main
+        git puch
 
 ## Описание возможноостей Git
-    git init - загрузка гита 
+    git init - создает новый репозиторий Git
     git add - добавляем все файлы в гит
-    git commit - пишем какой файл ичто изменили
-    git remote - добавляем репозиторий
+    git commit - фиксирует изменения. До выполнения этой команды локальные изменения никуда не запишутся.
+    git remote -  добавляет по URL (назван origin) удаленный репозиторий
     git puch - загружаем свой проект
 
 ## Заключенние
