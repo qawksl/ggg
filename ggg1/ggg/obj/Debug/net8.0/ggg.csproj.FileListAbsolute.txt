@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\ggg\ggg\bin\Debug\net8.0\ggg.exe
+C:\Users\student\source\repos\ggg\ggg\bin\Debug\net8.0\ggg.deps.json
+C:\Users\student\source\repos\ggg\ggg\bin\Debug\net8.0\ggg.runtimeconfig.json
+C:\Users\student\source\repos\ggg\ggg\bin\Debug\net8.0\ggg.dll
+C:\Users\student\source\repos\ggg\ggg\bin\Debug\net8.0\ggg.pdb
+C:\Users\student\source\repos\ggg\ggg\obj\Debug\net8.0\ggg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\ggg\ggg\obj\Debug\net8.0\ggg.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\ggg\ggg\obj\Debug\net8.0\ggg.AssemblyInfo.cs
+C:\Users\student\source\repos\ggg\ggg\obj\Debug\net8.0\ggg.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ggg\ggg\obj\Debug\net8.0\ggg.dll
+C:\Users\student\source\repos\ggg\ggg\obj\Debug\net8.0\refint\ggg.dll
+C:\Users\student\source\repos\ggg\ggg\obj\Debug\net8.0\ggg.pdb
+C:\Users\student\source\repos\ggg\ggg\obj\Debug\net8.0\ggg.genruntimeconfig.cache
+C:\Users\student\source\repos\ggg\ggg\obj\Debug\net8.0\ref\ggg.dll
